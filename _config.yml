@@ -1,0 +1,7 @@
+title: Las Vegas Guide — 20–24 Sep 2026
+description: First-time trip notes, scripts, and table cards.
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
