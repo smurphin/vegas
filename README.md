@@ -1,12 +1,12 @@
-# Las Vegas Guide — 20–24 Sep 2026
+# Las Vegas Guide — a first-time Center Strip week
 
 A first-time, low-stress trip: see the famous buildings, get a few free drinks, play small-limit table games without getting eaten, and fly home with stories instead of a hole in the account.
 
-You land Sunday afternoon, dump bags at the LINQ, and eat sushi before the jet lag wins. Then you walk the two buildings people mean when they say Vegas — Caesars Palace and Bellagio — catch a fake thunderstorm, and sit a proper blackjack table at Ellis Island. Monday is the only full free day: a dawn run to the Welcome sign, the High Roller, indoor Venice, a bus downtown, the Mob Museum, dinner, and a different kind of table game. Tuesday through Thursday you are at Oktane, five to ten minutes behind the hotel. Tuesday night is the one dressed-up evening: pub dinner, Absinthe, fountains, a paid Negroni. Wednesday is the work party. Thursday you fly.
+You land Sunday afternoon, dump bags, and eat sushi before the jet lag wins. Then you walk the two buildings people mean when they say Vegas — Caesars Palace and Bellagio — catch a fake thunderstorm, and sit a proper blackjack table at Ellis Island. Monday is the only full free day: a dawn run to the Welcome sign, the High Roller, indoor Venice, a bus downtown, the Mob Museum, dinner, and a different kind of table game. Tuesday through Thursday you are at a conference five to ten minutes behind a Center Strip hotel. Tuesday night is the one dressed-up evening: pub dinner, Absinthe, fountains, a paid Negroni. Wednesday is the conference party. Thursday you fly.
 
 Everything below is how not to waste that week — or the $400 you brought to gamble.
 
-**Locked in:** Absinthe, Tuesday 22 Sep, 21:00, Caesars Palace tent.  
+**Locked in:** Absinthe, Tuesday 21:00, Caesars Palace tent.  
 **Must-see:** Caesars Palace and Bellagio (Sunday walk + Tuesday after the show). Venetian indoor canals + gondola + **Sphere from the outside** (Monday). Fremont Street at night.
 
 Open this file on your phone (any Markdown app, VS Code, Obsidian, or Word). Use the contents list. Screenshot the **daily plan cards** and **flash cards** near the end. The tables are there so you can look something up in a lift. The paragraphs are the trip.
@@ -20,7 +20,7 @@ Open this file on your phone (any Markdown app, VS Code, Obsidian, or Word). Use
 - [Hotel and Strip practicalities](#hotel-and-strip-practicalities)
 - [Casino concepts (read this once)](#casino-concepts-read-this-once)
 - [Money rules](#money-rules)
-- [Cash, cards, and Monzo](#cash-cards-and-monzo)
+- [Cash, cards, and a UK debit card](#cash-cards-and-a-uk-debit-card)
 - [Book now vs walk-in](#book-now-vs-walk-in)
 - [Food plan](#food-plan)
 - [What to see (and what to skip)](#what-to-see-and-what-to-skip)
@@ -45,14 +45,13 @@ Open this file on your phone (any Markdown app, VS Code, Obsidian, or Word). Use
 
 ## Who this is for
 
-First-time Vegas. The itinerary is this trip; the casino chapters assume you have never sat a live table. Use whatever still applies.
+First-time Vegas. The itinerary is a generic Sunday–Thursday Center Strip week; the casino chapters assume you have never sat a live table. Use whatever still applies.
 
 | | |
 |---|---|
-| Hotel | [The LINQ](https://www.caesars.com/linq) (Center Strip), **District 3** — rear of the hotel, closest tower to Caesars Forum |
-| In | Sun 20 Sep, BA 271 lands 14:55 |
-| Out | Thu 24 Sep, BA 270 at 17:20 |
-| Conference | [Okta Oktane](https://www.okta.com/oktane/) at [Caesars Forum](https://www.caesars.com/caesars-forum) Tue–Thu |
+| Shape | Sunday arrive – Thursday depart. Conference **Tue–Thu**. |
+| Base | Center Strip, walking distance to [Caesars Forum](https://www.caesars.com/caesars-forum) (east of the Strip, behind the LINQ / High Roller). Walking times assume you are next to the [LINQ Promenade](https://www.caesars.com/linq). |
+| Sleep | Any Center Strip Caesars hotel works. **Do not sit live tables** at the LINQ or Palace; bartop video poker there is the drink engine. |
 
 Corporate money covers meals up to a cap. Gambling, Absinthe, splash dinners, and the gondola are **personal**.
 
@@ -62,7 +61,7 @@ Corporate money covers meals up to a cap. Gambling, Absinthe, splash dinners, an
 
 1. You are buying **time, drinks, and a story**. Break-even is luck. A good night is 2–4 hours out, 3–5 drinks, money left for tomorrow.
 2. **Sit blackjack only where the sign says “Blackjack pays 3 to 2.”** If it says 6 to 5, walk. That single rule saves more money than any fancy play.
-3. **Do not sit live tables at the LINQ or Caesars Palace** on this budget. **Bartop video poker at those same bars is the drink engine.** Sleep at the LINQ. Play live games at [Ellis Island](https://www.ellisislandcasino.com/) (Sunday) or downtown (Monday).
+3. **Do not sit live tables at the LINQ or Caesars Palace** on this budget. **Bartop video poker at those same bars is the drink engine.** Sleep Center Strip. Play live games at [Ellis Island](https://www.ellisislandcasino.com/) (Sunday) or downtown (Monday).
 4. **Split the night into envelopes.** When a slice is empty, that game is over. No ATM top-up.
 5. **Video poker:** Jacks or Better, 25¢, Max Bet ($1.25). About 6–10 hands, ask “am I green?”, order, **$2 first tip then $1**, **stop playing and drink**. Cash out whenever you like. **O’Sheas / Apostrophe / Claude’s — not Re:Match, not Catalyst.**
 6. **Blackjack:** never insurance. **8 or less: hit. 9: hit. Double 11 vs 2–10 and 10 vs 2–9.** **12–16:** stand vs 2–6, hit vs 7–Ace (12 vs 2 or 3: hit). **17+ stand.** Split Aces and 8s only.
@@ -80,7 +79,7 @@ Corporate money covers meals up to a cap. Gambling, Absinthe, splash dinners, an
 Read it in this order, not from the table of contents down:
 
 1. **Packing:** [What to wear](#what-to-wear), then [Hotel and Strip practicalities](#hotel-and-strip-practicalities) (where you sleep, heat, water, how you get around).
-2. **On the plane:** [Money](#money-rules), [Cash and Monzo](#cash-cards-and-monzo), [Food](#food-plan), [Day-by-day](#day-by-day-itinerary). Screenshot the [daily plan cards](#daily-plan-cards-screenshot-these).
+2. **On the plane:** [Money](#money-rules), [Cash and a UK debit card](#cash-cards-and-a-uk-debit-card), [Food](#food-plan), [Day-by-day](#day-by-day-itinerary). Screenshot the [daily plan cards](#daily-plan-cards-screenshot-these).
 3. **Once, so Sunday night is not a surprise:** [Casino concepts](#casino-concepts-read-this-once) — what the signs mean, why Ellis Island, why you do not sit tables at your own hotel.
 4. **On the floor:** [flash cards](#flash-cards-screenshot-or-print-these) at the end. Open the video poker / blackjack / roulette chapters only if you want the why.
 
@@ -92,7 +91,7 @@ This is likely a one-shot trip. The constraint is **hours, not a list**. Monday 
 
 ## What to wear
 
-Late September is still desert summer. Daytime highs are often **32–36 °C**; nights drop to around **20–22 °C**. The Strip sidewalk at 15:00 is a bad idea. Indoor casinos, the conference, and the Absinthe tent are **air-conditioned hard** — think a British supermarket in July. You will be too hot outside and too cold inside unless you have a light layer.
+May through September is still desert summer. Daytime highs are often **32–36 °C**; nights drop to around **20–22 °C**. The Strip sidewalk at 15:00 is a bad idea. Indoor casinos, the conference, and the Absinthe tent are **air-conditioned hard** — think a British supermarket in July. You will be too hot outside and too cold inside unless you have a light layer.
 
 **Nobody is checking you at the casino door.** Shorts and a t-shirt are normal on the floor, at O’Sheas, on Fremont, at Ellis Island, and at every meal except the one Tuesday night you might dress for. Flip-flops are a pool / room thing, not a walking-the-Strip thing — the pavement cooks, and you will be on your feet for hours.
 
@@ -100,7 +99,7 @@ Late September is still desert summer. Daytime highs are often **32–36 °C**; 
 
 | When | Wear | Why |
 |---|---|---|
-| **Tue–Thu, Oktane** | **Smart casual.** Collared shirt or a clean polo, chinos or dark jeans, closed shoes. A light jacket or overshirt for the Forum air-con. | Conference rooms and customer breakfast / party. Shorts and a festival t-shirt look like you wandered in from the pool. |
+| **Tue–Thu, conference** | **Smart casual.** Collared shirt or a clean polo, chinos or dark jeans, closed shoes. A light jacket or overshirt for the Forum air-con. | Conference rooms and conference breakfast / party. Shorts and a festival t-shirt look like you wandered in from the pool. |
 | **Sun + Mon (down days)** | **Shorts, t-shirt, trainers.** A cap and sunglasses for the walks. | Heat. You are eating sushi, walking casinos, riding the Deuce, sitting bartops. Nobody cares. |
 | **Tue night** (Ramsay Pub → Absinthe → Chandelier) | **Jeans + collared shirt or polo, closed shoes.** Optional light jacket. | Not a dress code, a bump. Ramsay Pub is a pub (sneakers are fine). Absinthe is “Vegas casual” — no jacket required, no shorts-and-flip-flops in the front row. Chandelier is a cocktail bar in a crystal room; you will feel better not arriving in running kit. |
 | **Dawn runs** | Normal running kit. Water from CVS. | Monday 05:00 is the long one. Indoor gym: shorts and a shirt; it is not a fashion show. |
@@ -127,30 +126,30 @@ If you only bring one “nice” look, use it Tuesday night and for the conferen
 
 ## Hotel and Strip practicalities
 
-You sleep at the LINQ so Oktane is a short indoor walk and the Strip is out the front. The only geography that matters on day one: **District 3** is the back of the hotel (garage / Dunkin’ by the lifts) — closest tower to the conference. **Caesars Forum** (Oktane) is **behind you**, east of the Strip, via the Forum Sky Bridge and the High Roller walkway. **Caesars Palace** is **across Las Vegas Blvd** to the west. **Forum Shops** are the mall *inside* Palace. Same word as the conference; different building. You never cut through Palace to get to work.
+Stay on Center Strip so the conference is a short indoor walk and the Strip is out the front. **Caesars Forum** (the convention centre) is **east of the Strip**, behind the LINQ / High Roller, via the Forum Sky Bridge. **Caesars Palace** is **across Las Vegas Blvd** to the west. **Forum Shops** are the mall *inside* Palace. Same word as the conference; different building. You never cut through Palace to get to work. Forum-side / rear rooms are closest to the bridge.
 
 ### Water and snacks
 
 Hotel shops want **$6–$10 a bottle**. After check-in, walk to **CVS in front of Horseshoe** (next door) or **Walgreens between Venetian and Harrah’s**. Multipack water + snacks at normal prices. Fill the room fridge. That is the whole grocery plan.
 
-### Mini-fridge (LINQ is usually fine)
+### Mini-fridge (Center Strip is usually fine)
 
-**LINQ rooms typically have an empty personal fridge**, not a stocked sensor minibar. Put your CVS water in it.
+**Center Strip Caesars rooms typically have an empty personal fridge**, not a stocked sensor minibar. Put your CVS water in it.
 
 The “weighted sensor bills you if you move a Coke for 30 seconds” trap is real at **some** nicer resorts (Wynn, some Bellagio/Cosmo minibars). If a fridge in a room **you visit** is full of $12 Pringles, do not rearrange it. If it is empty, it is yours. Floor ice machines are free.
 
 ### Gym, running, and heat
 
-Late September is still hot. **Outside only at dawn** (Monday Welcome-sign run ~**05:00**; short loops done by **07:00**). Midday on the Strip is a bad idea. Carry a CVS bottle. Run on **Las Vegas Blvd sidewalks and pedestrian bridges**, not Koval, not east of the Strip, not the North Strip gap.
+Through September it is still hot. **Outside only at dawn** (Monday Welcome-sign run ~**05:00**; short loops done by **07:00**). Midday on the Strip is a bad idea. Carry a CVS bottle. Run on **Las Vegas Blvd sidewalks and pedestrian bridges**, not Koval, not east of the Strip, not the North Strip gap.
 
-**LINQ gym (6th floor):** small but fine. Life Fitness cardio, cables, dumbbells to ~50 lb. **No squat rack, no Olympic bar.** 25–40 minutes after a short run, or as a standalone if you slept badly. The hotel pool is a 21+ party pool — not for laps. Skip Desert Breeze / Red Rock this week; you do not have a spare morning for a 15–25 min Uber.
+Hotel gyms on Center Strip are usually small but fine (cardio, cables, dumbbells). **No squat rack** is common. 25–40 minutes after a short run, or as a standalone if you slept badly. Party pools are not for laps. Skip Desert Breeze / Red Rock this week; you do not have a spare morning for a 15–25 min Uber.
 
 **The long run is Monday.** Jet lag will have you awake ~05:00 anyway. Tuesday or Wednesday is a short north loop (photo-op / digest US portions), not a second fitness session.
 
 | Run | When | Route | Why |
 |---|---|---|---|
 | **1 — the postcard** | **Mon ~05:00–06:30** | LINQ **south** on the Strip to the **Welcome to Fabulous Las Vegas** sign and back. About **8–9 miles** once you count pedestrian bridges and the median crossing at the sign. Photo, turn around, go. | Coolest air of the week. Sets up brunch and the free day. Carry a CVS bottle. |
-| **2 — short north** | **Tue and/or Wed ~06:00–06:40** | LINQ **north** toward Venetian / Harrah’s and back, **2–3 miles**. Bridges count as hills. | Photo-op, not training. Shower, then Tuesday patio breakfast or Wednesday customer breakfast. |
+| **2 — short north** | **Tue and/or Wed ~06:00–06:40** | LINQ **north** toward Venetian / Harrah’s and back, **2–3 miles**. Bridges count as hills. | Photo-op, not training. Shower, then Tuesday patio breakfast or Wednesday conference breakfast. |
 
 Thursday: gym only if you are packing at 07:00; you fly. Do not add a third long run.
 
@@ -166,9 +165,9 @@ Walk Center Strip. **Uber at night** for Ellis Island and the airport. Tip $2–
 |---|---|---|---|
 | **[The Deuce](https://www.rtcsnv.com/ways-to-travel/deuce-on-the-strip)** | **$8 / 24h** pass (or $6 / 2h). Tap card / app; $4 cash one-ride is worse. | **Monday ~13:45** after Sphere, **northbound** to Fremont instead of Uber. Top deck, **front row**. 40–50 min of neon. Get off at Fremont, walk to the Mob Museum. | Board on Las Vegas Blvd near LINQ / Horseshoe / Flamingo, **north**. Coming **home** Monday night: **Uber**. The Deuce at 00:30 is slow and full of people you do not want to stand next to with chips. |
 | **Aria Express tram** | Free. Bellagio ↔ Crystals/Aria ↔ Park MGM. ~every 7–10 min, 08:00–02:00. | **Tuesday after Bellagio fountains.** Walk to the Bellagio tram station (south end of the property, 7 min indoors). Ride to **Park MGM** and back. 15–20 min including the walk. | This is the west-side tram that sits on your path. No ticket, no hotel key. |
-| **Mandalay Bay tram** | Free. Excalibur ↔ Luxor ↔ Mandalay Bay. ~10:00–midnight. | **Thursday after last Oktane session** if Sunday sushi already happened (so lunch is flexible). Deuce **south** from Caesars/Bellagio to Excalibur, ride the tram (Luxor pyramid from the car), Uber back to LINQ / Miracle Mile for lunch, bags, airport. | Skip if you are rushing Sakana + flight. The Aria tram on Tuesday already counts. |
-| **Walking LINQ District 3 → Caesars Forum** | Free | Tue–Thu mornings | **East, behind the hotel.** Forum Sky Bridge / High Roller walkway. **5–10 min.** You do **not** go through Caesars Palace. |
-| **Monorail** | Paid, east side | Skip as a plan | Station is behind LINQ, same side as Forum. Still slower than walking from District 3. |
+| **Mandalay Bay tram** | Free. Excalibur ↔ Luxor ↔ Mandalay Bay. ~10:00–midnight. | **Thursday after the last conference session** if Sunday sushi already happened (so lunch is flexible). Deuce **south** from Caesars/Bellagio to Excalibur, ride the tram (Luxor pyramid from the car), Uber back to LINQ / Miracle Mile for lunch, bags, airport. | Skip if you are rushing Sakana + flight. The Aria tram on Tuesday already counts. |
+| **Walking hotel → Caesars Forum** | Free | Tue–Thu mornings | **East, behind the LINQ / High Roller.** Forum Sky Bridge. **5–10 min** from a Forum-side room. You do **not** go through Caesars Palace. |
+| **Monorail** | Paid, east side | Skip as a plan | Station is behind the LINQ, same side as Forum. Still slower than walking the Sky Bridge. |
 | **Go City pass** | Don’t | — | You are not stacking paid attractions. |
 
 The Deuce **24h pass** also covers a tourist lap: if you board Monday lunchtime it is still valid Tuesday lunchtime. You will not need it Tuesday. One $8 is enough.
@@ -186,7 +185,7 @@ The Deuce **24h pass** also covers a tourist lap: if you board Monday lunchtime 
 
 ## Casino concepts (read this once)
 
-Sunday night you sit a real table. This chapter is the signs, the building names, and why you sleep at the LINQ but gamble somewhere else. Skim it on the plane. You do not need it to pack.
+Sunday night you sit a real table. This chapter is the signs, the building names, and why you sleep on Center Strip but gamble somewhere else. Skim it on the plane. You do not need it to pack.
 
 None of this is secret. Dealers assume first-timers. Looking slightly lost is normal. Looking at your phone for 30 seconds *during* a hand is rude. A paper card between hands is fine.
 
@@ -194,14 +193,14 @@ None of this is secret. Dealers assume first-timers. Looking slightly lost is no
 
 | Name | What it is | You |
 |---|---|---|
-| **[Caesars Forum](https://www.caesars.com/caesars-forum)** | Convention centre **east of the Strip**, 3911 Koval Lane, **behind the LINQ / High Roller** | Oktane Tue–Thu. You are in **District 3** — this is the closest tower to Forum. |
+| **[Caesars Forum](https://www.caesars.com/caesars-forum)** | Convention centre **east of the Strip**, 3911 Koval Lane, **behind the LINQ / High Roller** | Conference Tue–Thu. Forum-side rooms are the closest. |
 | **[Caesars Palace](https://www.caesars.com/caesars-palace)** | Hotel / casino **west** of Las Vegas Blvd. Roman fake-sky mall, Absinthe tent | Sunday wander + Absinthe Tue 21:00. **Not** the conference commute. |
 | **[Forum Shops](https://www.simon.com/mall/the-forum-shops-at-caesars-palace)** | Mall **inside Caesars Palace** (west). Painted sky. | **Not** Caesars Forum. Same word, different building. |
 | **[Bellagio](https://bellagio.mgmresorts.com/)** | West side, south of Palace, across Flamingo Rd | Conservatory + [fountains](https://bellagio.mgmresorts.com/en/entertainment/fountains-of-bellagio.html) |
-| **[The LINQ](https://www.caesars.com/linq)** | Your hotel, **east** of the Strip. Promenade, High Roller, In-N-Out | Sleep. **Not** live tables. District 3 = rear / garage / Forum side. |
+| **[The LINQ](https://www.caesars.com/linq)** | **East** of the Strip. Promenade, High Roller, In-N-Out, O’Sheas | Geography hub. **Not** live tables. Rear / garage side faces Forum. |
 | **[The Cosmopolitan](https://www.cosmopolitanlasvegas.com/)** | West side, next to Bellagio | [Chandelier](https://www.cosmopolitanlasvegas.com/nightlife/chandelier) — paid cocktails after the fountains |
 
-**Geography, one sentence:** Palace is across the boulevard. Forum is out the back of your hotel. LINQ sits between them only in the sense that the Strip is in the middle — you still do **not** walk through Palace to get to Oktane. Palace → Bellagio is 10–15 min outside.
+**Geography, one sentence:** Palace is across the boulevard. Forum is out the back of the LINQ. You still do **not** walk through Palace to get to the conference. Palace → Bellagio is 10–15 min outside.
 
 ### Words on the felt
 
@@ -210,10 +209,10 @@ None of this is secret. Dealers assume first-timers. Looking slightly lost is no
 | **Pit** | Cluster of tables with a supervisor in the middle. |
 | **Felt** | The cloth. Your chips live here. Drinks go in the cup holder, never on the felt. |
 | **Minimum** | Posted on a small sign. If it says $15, every bet is at least $15. |
-| **Buy-in** | Cash on the table → chips. Tables do **not** take your Monzo card. |
+| **Buy-in** | Cash on the table → chips. Tables do **not** take a debit card. |
 | **Colour up** | End of session: they swap your pile for fewer, larger chips. Then you walk to the **cage** (cashier) to turn chips into dollars. |
 | **Comp** | A free thing (usually a drink) because you are betting. |
-| **Players / Rewards card** | [Caesars Rewards](https://www.caesars.com/rewards) — sign up at LINQ check-in. Free plastic card. **Insert it in bartops.** It does **not** turn the drink light green. See [Caesars Rewards vs the drink light](#caesars-rewards-vs-the-drink-light). |
+| **Players / Rewards card** | [Caesars Rewards](https://www.caesars.com/rewards) — sign up at hotel check-in. Free plastic card. **Insert it in bartops.** It does **not** turn the drink light green. See [Caesars Rewards vs the drink light](#caesars-rewards-vs-the-drink-light). |
 | **Stadium / electronic table** | Big screens, live dealer on camera or a short stage. You tap bets. Less social, slower drinks. |
 
 ### Blackjack pays “3 to 2” vs “6 to 5”
@@ -255,13 +254,13 @@ Same drinks, worse math. Check the wheel (or the screen) before you bet.
 | Casino Royale $10 tables | **No live tables.** Walk through if you like; do not plan a session. |
 | El Cortez single-deck 3 to 2 | **Gone.** Still 3 to 2, just more decks. Still worth it. |
 | Venetian $10 Sunday night | Night minimums usually $15–$25+. Walk the canals; play elsewhere. |
-| LINQ as your table-game home | **6 to 5 blackjack, triple-zero roulette.** Sleep there. Play bartop video poker for drinks. Sit tables at Ellis Island or downtown. |
+| LINQ as your table-game home | **6 to 5 blackjack, triple-zero roulette.** If you stay nearby, play bartop video poker for drinks. Sit tables at Ellis Island or downtown. |
 
 ---
 
 ## Money rules
 
-Corporate card for food up to the cap. Cash for gambling and $1 tips. Monzo for everything else. The numbers below are the whole budget — there is no secret fourth envelope.
+Corporate card for food up to the cap. Cash for gambling and $1 tips. A fee-free UK debit card for everything else. The numbers below are the whole budget — there is no secret fourth envelope.
 
 ### Expense account (food)
 
@@ -326,15 +325,15 @@ A successful night is: 2–4 hours out, 3–5 drinks, still have money for the n
 
 ---
 
-## Cash, cards, and Monzo
+## Cash, cards, and a UK debit card
 
-**Short answer:** pay hotels, Ubers, food, and tickets on **Monzo (fee-free spending)**. Get **one lump of USD cash** for gambling + $1 tips. Do **not** buy chips with a card. Do **not** withdraw at a casino ATM every day.
+**Short answer:** pay hotels, Ubers, food, and tickets on a **fee-free UK debit card**. Get **one lump of USD cash** for gambling + $1 tips. Do **not** buy chips with a card. Do **not** withdraw at a casino ATM every day.
 
 ### What actually works
 
 | Method | Use it? | Why |
 |---|---|---|
-| **Monzo contactless / chip** | **Yes**, everywhere except the table | No FX markup. Hotels, restaurants, High Roller, gondola, Absinthe, Uber. |
+| **UK fee-free debit (contactless / chip)** | **Yes**, everywhere except the table | No FX markup if your bank does not add one. Hotels, restaurants, High Roller, gondola, Absinthe, Uber. |
 | **Cash on the felt** | **Yes — this is how tables work** | Put notes on the table, say “change please.” |
 | **Card at the table / slot** | **No** | Nevada tables want cash. Machines take cash or a ticket, not your debit card. |
 | **Cage “cash advance” on a credit card** | **Never** | Treated as a cash advance: ugly fees, ugly interest. |
@@ -343,15 +342,15 @@ A successful night is: 2–4 hours out, 3–5 drinks, still have money for the n
 | **Airport Travelex / ICE desk** | Only a tiny float if you land with $0 | Terrible rate. You do not need cash for the Uber to the hotel. |
 | **One bank or casino ATM on Sunday** | **Yes** | Pay the fee **once**. Get the whole gambling + tips stash. |
 
-### Monzo limits (check the app; plans differ)
+### UK debit cash limits (check your app; plans differ)
 
-Spending on the card abroad is **fee-free** (Mastercard rate, no Monzo markup).
+Spending on a fee-free UK card abroad is **fee-free** (Mastercard/Visa rate, no extra markup).
 
 **Cash withdrawals outside the UK/EEA** (the US counts):
 
 | Plan | Fee-free cash / 30 days | After that |
 |---|---|---|
-| Standard (Monzo as main bank or not) | **£200** | 3% |
+| Typical fee-free UK current account | **£200** | 3% |
 | Plus | **£400** | 3% |
 | Premium / Perks / Max | **£600** | 3% |
 
@@ -363,7 +362,7 @@ The 30 days start from each withdrawal, not the 1st of the month. Confirm yours 
 
 1. Land. Uber to the hotel **on the card**.
 2. After check-in, withdraw **once**: enough for **all gambling nights + $80 in ones**. Round up so you are not short of $1s for drinks.
-3. Prefer a **bank-branded ATM** (Chase, Bank of America, Wells Fargo) if you see one with a sane fee screen. If the only machines are casino ATMs, use **one**, take the lump, walk away. Decline “conversion in USD / Dynamic Currency Conversion” — always charge in **USD** and let Monzo convert.
+3. Prefer a **bank-branded ATM** (Chase, Bank of America, Wells Fargo) if you see one with a sane fee screen. If the only machines are casino ATMs, use **one**, take the lump, walk away. Decline “conversion in USD / Dynamic Currency Conversion” — always charge in **USD** and let your UK bank convert.
 4. Keep gambling cash in **night envelopes** in the room safe. Carry only tonight’s clip + a handful of $1s.
 5. Food, tickets, Ubers stay on the card so you do not burn the cash allowance on dinner.
 
@@ -375,15 +374,15 @@ The 30 days start from each withdrawal, not the 1st of the month. Confirm yours 
 
 ## Book now vs walk-in
 
-Five things need a reservation. Everything else on this trip is a walk-up. Do the bookings this week if they are still open.
+Five things need a reservation. Everything else on this trip is a walk-up. Book them before you fly if they are still open.
 
-Do these **this week** if you have not:
+Do these **before you fly** if you have not:
 
 | Thing | Why | How |
 |---|---|---|
-| **[Absinthe](https://spiegelworld.com/shows/absinthe/) — Tue 22 Sep, 21:00** | Sells out. ~70–90 min, filthy, close-up, 18+. | Official Spiegelworld site only. Trailer / clips: [YouTube — Absinthe Las Vegas](https://www.youtube.com/results?search_query=Absinthe+Las+Vegas+official+trailer). **Doors ~20:40–20:45** (they say 15–20 min before). You are already in the building after dinner — **20:40 at the tent is enough.** Closer seats = more “audience victim.” |
+| **[Absinthe](https://spiegelworld.com/shows/absinthe/) — Tuesday 21:00** | Sells out. ~70–90 min, filthy, close-up, 18+. | Official Spiegelworld site only. Trailer / clips: [YouTube — Absinthe Las Vegas](https://www.youtube.com/results?search_query=Absinthe+Las+Vegas+official+trailer). **Doors ~20:40–20:45** (they say 15–20 min before). You are already in the building after dinner — **20:40 at the tent is enough.** Closer seats = more “audience victim.” |
 | **[Gordon Ramsay Pub & Grill](https://www.caesars.com/caesars-palace/restaurants/gordon-ramsay-pub-and-grill)** Tue **19:00** | Burger **or** steak **or** fish & chips. Pub room, not Hell’s Kitchen — nobody is shouting. **Same building as Absinthe** — 5–8 min to the tent. | [OpenTable](https://www.opentable.com/gordon-ramsay-pub-and-grill-caesars-palace-las-vegas). Book **19:00**. Their policy: **cancelled after 10 minutes**, whole party present to check in. That is tighter than London’s 15. Do not plan to be 10 min late — 5 is fine, 10 is the cliff, **call (702) 731-7410** if the conference overruns. Walking by **~20:35**. Pub burger ~**$29**. Filet / strip ~**$70–$75**. |
-| **[Alexxa’s](https://www.alexxaslasvegas.com/)** Tue **~08:15** patio | American brunch, Strip-side patio opposite Bellagio. Colleague breakfast. | [alexxaslasvegas.com](https://www.alexxaslasvegas.com/) or phone **702-331-5100**. Ask for **patio**. Backup: walk-up at 08:00. |
+| **[Alexxa’s](https://www.alexxaslasvegas.com/)** Tue **~08:15** patio | American brunch, Strip-side patio opposite Bellagio. | [alexxaslasvegas.com](https://www.alexxaslasvegas.com/) or phone **702-331-5100**. Ask for **patio**. Backup: walk-up at 08:00. |
 | **[Carson Kitchen](https://www.opentable.com/r/carson-kitchen-las-vegas)** Mon **18:00** | Downtown American after the Mob Museum. | OpenTable. Fremont East. |
 | **[Venetian gondola](https://www.venetianlasvegas.com/resort/attractions/gondola-rides.html)** (indoor) | Monday ~11:30, ~10 min, cheesy on purpose | Book online up to 60 days, or walk-up at **Emporio D’Gondola, Grand Canal Shoppes Level 2**. **$39** shared / **$156** private. Skip the photo package. |
 
@@ -402,7 +401,7 @@ Do these **this week** if you have not:
 | In-N-Out, Earl of Sandwich, Ellis Island cafe, Hash House (Monday after the run) | Walk-in |
 | Low-limit tables | Walk-in. Limits jump after 20:00 and on weekends. Sunday and Monday evenings are the cheap windows. |
 
-**Caesars Rewards:** sign up at LINQ check-in Sunday. Free plastic card. Same number at LINQ, Horseshoe, Palace, Flamingo, Paris. Insert it in bartops. It does **not** buy the drink — the green light does. Full note under [Free drinks](#caesars-rewards-vs-the-drink-light).
+**Caesars Rewards:** sign up at hotel check-in Sunday. Free plastic card. Same number at LINQ, Horseshoe, Palace, Flamingo, Paris. Insert it in bartops. It does **not** buy the drink — the green light does. Full note under [Free drinks](#caesars-rewards-vs-the-drink-light).
 
 ---
 
@@ -416,16 +415,16 @@ You have **four dinners and a Thursday lunch**. That is the whole list. Everythi
 
 | When | Eat this | Why |
 |---|---|---|
-| **Sun dinner** | **[Sakana](https://www.yelp.com/biz/sakana-las-vegas-3)** AYCE sushi, 3949 S Maryland Pkwy. Uber ~10 min from LINQ. Dinner **$36–$39** + tax/tip, still under $68. **90 min limit.** No phone reservations — name on the waitlist in person (they text). Go **~17:00–17:15**, not 19:00. | You asked for proper sushi. This is the one. Then Uber back for Forum Shops / Atlantis / Bellagio fountains. |
+| **Sun dinner** | **[Sakana](https://www.yelp.com/biz/sakana-las-vegas-3)** AYCE sushi, 3949 S Maryland Pkwy. Uber ~10 min from LINQ. Dinner **$36–$39** + tax/tip, still under $68. **90 min limit.** No phone reservations — name on the waitlist in person (they text). Go **~17:00–17:15**, not 19:00. | Proper sushi without a Strip buffet. Then Uber back for Forum Shops / Atlantis / Bellagio fountains. |
 | **Sun if Sakana is slammed or you land late** | [In-N-Out](https://www.in-n-out.com/) on the Promenade (8 min, Animal Style) **or** [Gordon Ramsay Pub & Grill](https://www.caesars.com/caesars-palace/restaurants/gordon-ramsay-pub-and-grill) while you walk Palace **or** [Battista's](https://www.opentable.com/battistas-hole-in-the-wall) behind the LINQ (wine included). Then do **Sakana Thursday lunch** instead ($30–$32 before 15:00). | Don't die on a 90-minute wait jet-lagged. |
-| **Mon brunch** (after the Welcome-sign run) | **[Hash House A Go Go](https://www.opentable.com/r/hash-house-a-go-go-linq-las-vegas)** in the LINQ, above the casino. Opens **07:30**. American “twisted farm” breakfast. | 5 min from District 3 after a shower. **Order a normal plate** (farm scramble, omelette, eggs Benedict) — not the viral towers. One plate is already a US portion. ~$20–$30; small personal top-up over the $22 breakfast cap. Walk-in is usually fine on a Monday 08:00. |
+| **Mon brunch** (after the Welcome-sign run) | **[Hash House A Go Go](https://www.opentable.com/r/hash-house-a-go-go-linq-las-vegas)** in the LINQ, above the casino. Opens **07:30**. American “twisted farm” breakfast. | Five minutes from a Forum-side room after a shower. **Order a normal plate** (farm scramble, omelette, eggs Benedict) — not the viral towers. One plate is already a US portion. ~$20–$30; small personal top-up over the $22 breakfast cap. Walk-in is usually fine on a Monday 08:00. |
 | **Mon brunch, better food** | **[Yardbird](https://www.opentable.com/r/yardbird-southern-table-and-bar-las-vegas)** at the Venetian. Southern American (chicken, biscuits, proper brunch). | 15–20 min walk after the shower. Quality over convenience. If you do this, start the tourist day at Venetian (gondola / Sphere) and do **High Roller on the walk south** before the Deuce. |
 | **Mon midday** | **Saginaw’s shrimp cocktail** at Circa (Fremont). In-N-Out only if you are still empty after that. | Snack, not a meal. |
 | **Mon dinner** | **[Carson Kitchen](https://www.opentable.com/r/carson-kitchen-las-vegas)** (Fremont East). Creative American, made-to-order, you will not leave hungry. | Book **18:00**. You are already downtown after the Mob Museum. Do not Uber back to the Strip to eat. |
-| **Tue breakfast** (~08:15–09:15 with colleague) | **[Alexxa’s](https://www.alexxaslasvegas.com/)** patio at Paris. American brunch, Strip-side, opposite Bellagio. | See the patio note below. Fountains are **off**. |
+| **Tue breakfast** (~08:15–09:15) | **[Alexxa’s](https://www.alexxaslasvegas.com/)** patio at Paris. American brunch, Strip-side, opposite Bellagio. | See the patio note below. Fountains are **off**. |
 | **Tue dinner** | **[Gordon Ramsay Pub & Grill](https://www.caesars.com/caesars-palace/restaurants/gordon-ramsay-pub-and-grill)** at Caesars. Book **19:00**. Walking by **~20:35**. | 10-minute cancellation. If early for Absinthe: drinks at **Green Fairy Garden** (the tent bar). |
 | **Wed** | Conference party | Do not also book a restaurant. Plan B: fountains + one drink, or an early night. |
-| **Thu lunch** | If you already did Sakana Sunday: **Miracle Mile rainstorm + food at Planet Hollywood**. If Sunday slipped: **Sakana lunch**, then bags, airport. | Do not start a huge sit-down with a 17:20 flight. |
+| **Thu lunch** | If you already did Sakana Sunday: **Miracle Mile rainstorm + food at Planet Hollywood**. If Sunday slipped: **Sakana lunch**, then bags, airport. | Do not start a huge sit-down with an afternoon flight. |
 
 ### Sushi (AYCE and a la carte)
 
@@ -478,7 +477,7 @@ Yes — short, free, and next to actual food. [Miracle Mile Rain Show](https://m
 
 Do not make a special trip from downtown for it.
 
-### Tuesday morning patio (with colleague, ~08:15)
+### Tuesday morning patio (~08:15)
 
 You want **American food** and **al fresco opposite Bellagio**. You already know French food. Fountains: **off**. Weekdays they start at **15:00** (every 30 min until 19:30, then every 15 min until midnight). At 08:30 you get the lake, the hotel, and the Strip. Still a good view. The show is **Tuesday night after Absinthe**.
 
@@ -488,9 +487,9 @@ You want **American food** and **al fresco opposite Bellagio**. You already know
 | **[Mon Ami Gabi](https://www.monamigabi.com/location/las-vegas/)** (Paris, next door) | French bistro. Breakfast **07:00–11:00**. Eggs, Benedict, omelettes, croissants. | Patio is the famous fountain-facing row. Reservations are often **indoor**; patio is frequently **walk-up**. Tuesday 08:15 two people: good chance. Weekends are the fight. | Worth it **only for the patio**. The food will feel like a decent holiday bistro, not a reason to eat French in Vegas. Skip if Alexxa’s patio is free. |
 | Hotel coffee + walk | LINQ / Palace cafe | — | If conference starts on time at 08:30, skip the sit-down. Forum is 15–20 min from Paris. |
 
-**Walk after breakfast:** Paris → north/east through Flamingo or LINQ Promenade → Forum Sky Bridge. **~15–20 min.** Colleague at Palace: they walk across Las Vegas Blvd to Paris (~10 min), then you both go to Forum the east-side way, not back through Palace.
+**Walk after breakfast:** Paris → north/east through Flamingo or LINQ Promenade → Forum Sky Bridge. **~15–20 min.** Do not go back through Palace.
 
-If Oktane actually starts at 08:30, this breakfast is a late arrival. Confirm the agenda. 08:15 table only works if the first session is skippable or starts later.
+If the conference actually starts at 08:30, this breakfast is a late arrival. Confirm the agenda. 08:15 table only works if the first session is skippable or starts later.
 
 ### Fine dining you were offered (pick none extra)
 
@@ -516,7 +515,7 @@ Tuesday is **Gordon Ramsay Pub**. These are **instead of** something, not on top
 | Grotto (Golden Nugget) | Italian. Skip unless the other two are dead. You wanted American. |
 | Ellis Island BBQ | Ribs $20–$25. Eat there **Sunday with blackjack**, not as Monday's nice dinner. |
 
-If someone is checking into Caesars ~17:00: they Uber to Fremont. You do not bounce back to the Strip.
+Do not Uber back to the Strip for dinner; you are already downtown.
 
 ### Cocktails: fountains, Chandelier, Negroni
 
@@ -530,9 +529,9 @@ Casino-floor cocktail servers will not pour a Negroni as a comp. Buy it at the b
 
 Sequence Tuesday: Absinthe → **fountains** → **Chandelier** → **walk home**.
 
-**Walk home (Chandelier → LINQ District 3):** Yes. About **20–25 min**. This is the busiest, brightest stretch of the Strip — Bellagio sidewalk, Flamingo Rd pedestrian bridges, into the LINQ, then indoors to District 3. Tuesday ~midnight is packed with tourists, cameras, cops. It is **not** Koval and **not** the North Strip gap.
+**Walk home (Chandelier → Center Strip / LINQ):** Yes. About **20–25 min**. This is the busiest, brightest stretch of the Strip — Bellagio sidewalk, Flamingo Rd pedestrian bridges, into the LINQ. Tuesday ~midnight is packed with tourists, cameras, cops. It is **not** Koval and **not** the North Strip gap.
 
-Stay on Las Vegas Blvd and the bridges. Ignore showgirls and flyer people. Do not cut east behind the hotels. If you are drunk, carrying a fat clip of chips, or just done, **Uber is $10–$12 and 8 minutes** — no shame. Colleague peels off at Palace (they are already home).
+Stay on Las Vegas Blvd and the bridges. Ignore showgirls and flyer people. Do not cut east behind the hotels. If you are drunk, carrying a fat clip of chips, or just done, **Uber is $10–$12 and 8 minutes** — no shame.
 
 ### Buffets
 
@@ -552,9 +551,9 @@ You cannot do every blog list. You can do the **icons on the walk** plus one dow
 | **Clock the Absinthe tent** | Sunday | Roman Plaza / Green Fairy Garden. |
 | **[Flamingo Wildlife Habitat](https://www.caesars.com/flamingo)** | Sunday walk Palace → Bellagio | Free flamingos / penguins, ~10 min, open ~07:00–20:00. Detour through Flamingo. |
 | **Bellagio Chihuly, Conservatory, fountains** | Sun + Tue | The postcard. |
-| **High Roller** | Monday morning | At the hotel. Daytime ticket. |
+| **High Roller** | Monday morning | LINQ Promenade. Daytime ticket. |
 | **Venetian canals + indoor gondola** | Monday | Then walk toward **Sphere**. |
-| **[Sphere](https://www.thesphere.com/)** exterior | Monday, from Venetian | **Postcard from Earth has ended.** Mid–late Sep 2026 the daytime film is **The Wizard of Oz** (confirm on the site). Eagles are 18–19 Sep — you miss them. **Look at the building** (free, huge). Do **not** drop the Mob Museum for it. Indoor bridge: Venetian Expo / Congress Center, so you are not on Sands Ave in the heat. |
+| **[Sphere](https://www.thesphere.com/)** exterior | Monday, from Venetian | **Look at the building** (free, huge). Confirm the daytime film on the Sphere site if you care. Do **not** drop the Mob Museum for it. Indoor bridge: Venetian Expo / Congress Center, so you are not on Sands Ave in the heat. |
 | **[Miracle Mile Rain Show](https://miraclemileshopslv.com/entertainment/rain-show-free/)** | Sunday ~21:30 | Free. Planet Hollywood, Harmon entrance, on the **:30**. After fountains, before Uber to Ellis Island. |
 | **Fremont Street canopy (Viva Vision)** | Monday night | Free light show on the hour, evening. Stand in the street and look up. |
 | **Absinthe** | Tuesday 21:00 | Locked. |
@@ -632,12 +631,12 @@ This is the week as a story. The [daily plan cards](#daily-plan-cards-screenshot
 
 Walking on the Strip is slower than Google says. Crossings take 5 minutes. Indoor casinos are mazes. Pad everything.
 
-### Sunday 20 Sep — Arrive, sushi, Palace, rainstorm, Ellis Island
+### Sunday — Arrive, sushi, Palace, rainstorm, Ellis Island
 
 | Time | What | Notes |
 |---|---|---|
-| 14:55 | Land LAS (BA 271) | Immigration + bags: 45–90 min. Global Entry if you have it. |
-| ~16:00 | Uber to LINQ | 15–20 min. Tip $2–$3 **in the app**. Card. |
+| Afternoon | Land LAS | Immigration + bags: 45–90 min. Uber to Center Strip. Tip $2–$3 **in the app**. Card. |
+| After bags | Hotel | 15–20 min from the airport. |
 | 16:00–16:45 | Check in, dump bags, Rewards, **cash once**, **CVS water** | If room is not ready, bags with bellhop. Do not linger. |
 | 17:00–18:45 | **Sakana** AYCE (Uber ~10 min) | 3949 S Maryland Pkwy. Waitlist in person. Nigiri first. If the wait is ugly or you landed late: In-N-Out / Ramsay Pub / Battista’s, and move sushi to Thursday lunch. |
 | 19:00–20:00 | **Caesars Palace** | Forum Shops, **Fall of Atlantis** (hourly to 20:00), clock the Absinthe tent. **Do not sit $25 tables.** |
@@ -647,7 +646,7 @@ Walking on the Strip is slower than Google says. Crossings take 5 minutes. Indoo
 
 Jet lag wins if you skip Ellis Island — that is fine. Do not walk Koval.
 
-### Monday 21 Sep — Full free day (the best day)
+### Monday — Full free day (the best day)
 
 | Time | What | Notes |
 |---|---|---|
@@ -657,22 +656,22 @@ Jet lag wins if you skip Ellis Island — that is fine. Do not walk Koval.
 | 11:45–13:30 | **Venetian canals + indoor gondola + Sphere** | Walk Grand Canal Shoppes. Gondola **$39**, Level 2. Indoor walk to **Sphere** (look, don’t buy a concert). Do not sit Venetian tables. |
 | ~13:45 | **Deuce north to Fremont** | $8 / 24h. Top deck, front row. Board Las Vegas Blvd near Venetian / LINQ, **northbound**. 40–50 min. |
 | ~14:30 | **[Mob Museum](https://themobmuseum.org/)** | 300 Stewart Ave, short walk from Fremont. 90 min. Speakeasy in the basement if you want. |
-| ~16:30–18:00 | Fremont wander | Canopy, **Sigma Derby at Golden Gate**, **Saginaw’s shrimp cocktail** (this is lunch). If meeting someone from Caesars ~17:00, they Uber here. In-N-Out only if still hungry. |
+| ~16:30–18:00 | Fremont wander | Canopy, **Sigma Derby at Golden Gate**, **Saginaw’s shrimp cocktail** (this is lunch). In-N-Out only if still hungry. |
 | 18:00–20:00 | **Carson Kitchen** | American. Booked. Optional beer at Atomic Liquors after. |
 | 20:30–00:00 | **Night 2 — $150** | $20 video poker. **$80 Ultimate Texas Hold’em** at **Golden Nugget** ($5/$5, no Trips). $50 left: more of that or **3-to-2 blackjack** at El Cortez. Watch one **Viva Vision** canopy show (on the hour). |
 
 El Cortez is the 1941 building with neon. Limits are the lowest downtown. Golden Nugget is cleaner. Either is correct. Caesars and Bellagio are Sunday and Tuesday — Monday is downtown only.
 
-### Tuesday 22 Sep — Oktane + Ramsay Pub + Absinthe 21:00
+### Tuesday — Conference + Ramsay Pub + Absinthe 21:00
 
-Oktane is **behind the LINQ**. For dinner, **do not loop home** unless the last session dies early — Forum → Ramsay Pub is **15–20 min** across the Strip. The tent is another **5–8 min** from the pub.
+The conference is **behind the LINQ**. For dinner, **do not loop home** unless the last session dies early — Forum → Ramsay Pub is **15–20 min** across the Strip. The tent is another **5–8 min** from the pub.
 
 | Time | What | Notes |
 |---|---|---|
 | 06:00–06:40 | **Short north run** (optional) | LINQ → Venetian and back, 2–3 miles. Shower. |
-| **08:15–09:15** | **Alexxa’s patio** with colleague | Paris, opposite Bellagio. **Fountains off.** American brunch. Then 15–20 min to Forum via Promenade / Sky Bridge. Confirm Oktane start time. |
-| 08:30–17:00 | **Oktane at Caesars Forum** | **District 3 → Forum Sky Bridge.** Do **not** cut through Palace. |
-| 17:00–18:45 | Conference → **walk to Palace** | Do **not** go back to LINQ unless sessions die early. Forum → Pub **15–20 min**. Leave the floor by **~18:40** for a 19:00 table. |
+| **08:15–09:15** | **Alexxa’s patio** | Paris, opposite Bellagio. **Fountains off.** American brunch. Then 15–20 min to Forum via Promenade / Sky Bridge. Confirm conference start time. |
+| 08:30–17:00 | **Conference at Caesars Forum** | **Forum Sky Bridge.** Do **not** cut through Palace. |
+| 17:00–18:45 | Conference → **walk to Palace** | Do **not** go back to the hotel unless sessions die early. Forum → Pub **15–20 min**. Leave the floor by **~18:40** for a 19:00 table. |
 | **19:00–20:35** | **Gordon Ramsay Pub & Grill** | Booked **19:00**. **10 min grace, then they cancel** — call if late. Walking by **~20:35**. |
 | **~20:40** | **Green Fairy Garden / tent** | Doors ~20:40–20:45. If you are early: cocktail at the garden (open from 17:00). 18+. |
 | **21:00–~22:30** | **Absinthe** | In the round, very rude, excellent. Close seats get picked on. |
@@ -681,26 +680,25 @@ Oktane is **behind the LINQ**. For dinner, **do not loop home** unless the last 
 
 Tuesday $100 is almost all video poker. The show is the night.
 
-### Wednesday 23 Sep — Oktane + party
+### Wednesday — Conference + party
 
 | Time | What | Notes |
 |---|---|---|
 | 06:00–06:40 | **Short north run** (optional) | 2–3 miles. Skip if the body is done. |
-| 08:00 | **Customer breakfast** (provided) | Do not buy breakfast. |
-| 08:30–17:00 | Conference | District 3 → Forum Sky Bridge. |
-| 18:00–late | **Official customer party** | Food and drinks provided. **Do not gamble.** If you wander a pit, $20 video poker is the ceiling. Checkout is 11:00 tomorrow. **Plan B:** Bellagio fountains + one drink, or bed. Other offers that evening win over a locked bar crawl. |
+| 08:00 | **Conference breakfast** (if provided) | Do not buy breakfast. |
+| 08:30–17:00 | Conference | Forum Sky Bridge. |
+| 18:00–late | **Conference party** | Food and drinks provided. **Do not gamble.** If you wander a pit, $20 video poker is the ceiling. Checkout is 11:00 tomorrow. **Plan B:** Bellagio fountains + one drink, or bed. Other offers that evening win over a locked bar crawl. |
 
-### Thursday 24 Sep — Half day, fly
+### Thursday — Half day, fly
 
 | Time | What | Notes |
 |---|---|---|
 | 08:00 | Breakfast. Bags to bell. Checkout by **11:00** | $2–$3 when you collect. |
-| 08:30–11:00 | Final Oktane sessions | |
-| 11:15–12:30 | **Optional: Deuce south + Mandalay Bay tram** | Only if sushi was Sunday. Excalibur → Luxor → Mandalay Bay, then Uber back toward LINQ / PH. Skip if you need Sakana before a 15:00 airport Uber. |
+| 08:30–11:00 | Final conference sessions | |
+| 11:15–12:30 | **Optional: Deuce south + Mandalay Bay tram** | Only if sushi was Sunday. Excalibur → Luxor → Mandalay Bay, then Uber back toward LINQ / PH. Skip if you need Sakana before an afternoon airport Uber. |
 | 12:00–14:00 | Lunch | **Sakana** if Sunday slipped. Otherwise **Miracle Mile + Earl or Ramsay Burger** (after the tram, or instead of it). |
 | 14:30 | Collect bags | |
-| 15:00 | Uber to LAS | Be at the terminal ~2.5 hours before an international BA flight. |
-| 17:20 | BA 270 to LHR | **No gambling today.** |
+| Afternoon | Uber to LAS | Be at the terminal ~2.5 hours before an international flight. **No gambling today.** |
 
 ---
 
@@ -708,12 +706,11 @@ Tuesday $100 is almost all video poker. The show is the night.
 
 Same week as above, one screen each. Screenshot these before you go out. If the card and the chapter disagree, the chapter is the explanation and the card is what you follow at 23:00.
 
-### Sunday 20 Sep
+### Sunday
 
 ```
-SUN 20 SEP — Arrive, sushi, Palace, fountains, rainstorm, Ellis Island
-Hotel: LINQ from 16:00
-14:55 land → Uber LINQ. Check-in, Rewards, ONE cash pull, CVS water
+SUNDAY — Arrive, sushi, Palace, fountains, rainstorm, Ellis Island
+Afternoon land → Uber Center Strip. Check-in, Rewards, ONE cash pull, CVS water
 17:00   Uber Sakana AYCE (Maryland Pkwy). Nigiri first. 90 min.
         If wait/jet lag: In-N-Out / Ramsay Pub / Battista’s
 19:00   Caesars Palace: Forum Shops, Fall of Atlantis (to 8pm)
@@ -725,10 +722,10 @@ Hotel: LINQ from 16:00
 Slice empty = stop. Jet lag = skip Ellis Island, sleep.
 ```
 
-### Monday 21 Sep
+### Monday
 
 ```
-MON 21 SEP — Welcome-sign run, wheel, Venice, Deuce, Mob, downtown
+MONDAY — Welcome-sign run, wheel, Venice, Deuce, Mob, downtown
 05:00   Run LINQ south to Welcome sign and back (~8–9 mi)
 07:45   Hash House in the LINQ (normal plate) OR Yardbird at Venetian
 10:45   High Roller (LINQ Promenade) — after Sphere if brunch was Yardbird
@@ -748,14 +745,14 @@ MON 21 SEP — Welcome-sign run, wheel, Venice, Deuce, Mob, downtown
 40 min or −$40 of the Hold’em slice → stand up
 ```
 
-### Tuesday 22 Sep
+### Tuesday
 
 ```
-TUE 22 SEP — Short run, Alexxa’s, Forum, Ramsay Pub, Absinthe, fountains
+TUESDAY — Short run, Alexxa’s, Forum, Ramsay Pub, Absinthe, fountains
 06:00      Optional 2–3 mi north loop. Shower.
-08:15      Alexxa’s patio (Paris) with colleague. Fountains OFF.
+08:15      Alexxa’s patio (Paris). Fountains OFF.
            Then Promenade / Sky Bridge to Forum — NOT through Palace
-Oktane at Caesars Forum (behind LINQ, District 3)
+Conference at Caesars Forum (behind the LINQ)
 19:00      Gordon Ramsay Pub (Caesars). 10 min grace then they cancel.
            Walking ~20:35. If early: Green Fairy Garden drinks
 20:40      Absinthe doors. Tent / Roman Plaza
@@ -767,28 +764,28 @@ Oktane at Caesars Forum (behind LINQ, District 3)
            NO $25 pits. Max $100 tonight, probably less.
 ```
 
-### Wednesday 23 Sep
+### Wednesday
 
 ```
-WED 23 SEP — Optional short run + work day
+WEDNESDAY — Optional short run + conference
 06:00   Optional 2–3 mi north loop (or sleep)
-        Customer breakfast provided at 08:00
-Conference (District 3 → Forum Sky Bridge)
-Evening: official party — food + drinks provided
+        Conference breakfast if provided
+Conference (Forum Sky Bridge)
+Evening: conference party — food + drinks provided
 Plan B: fountains + one drink, or early night
 Do not gamble. $20 video poker ceiling if you wander.
 Checkout tomorrow 11:00 — do not stay out until 4am.
 ```
 
-### Thursday 24 Sep
+### Thursday
 
 ```
-THU 24 SEP — fly
+THURSDAY — fly
 Checkout 11:00, bags with bell ($2–$3)
 Optional: Deuce south + Mandalay Bay tram (Luxor) if sushi was Sunday
 Lunch: Sakana if Sunday slipped
       else Miracle Mile rainstorm + Earl or Ramsay Burger
-15:00 Uber LAS, 17:20 BA 270
+Afternoon Uber LAS (2.5h before an international flight)
 No gambling today.
 ```
 
@@ -796,7 +793,7 @@ No gambling today.
 
 ## Caesars Palace and Bellagio
 
-These two are the “I have been to Vegas” buildings. Hit them **twice**: Sunday as a tourist, Tuesday because Absinthe and the fountains put you next door. **Oktane is not in this building.**
+These two are the “I have been to Vegas” buildings. Hit them **twice**: Sunday as a tourist, Tuesday because Absinthe and the fountains put you next door. **The conference is not in this building.**
 
 ### Caesars Palace (Sunday 18:30–20:00, and Tuesday evening)
 
@@ -808,7 +805,7 @@ Walk, in this order:
 4. **Roman Plaza / south side / Green Fairy Garden** — **Absinthe tent**. Clock it on Sunday so you are not hunting it at 20:40 on Tuesday.
 5. **Appian Way / palace corridors** — extra marble if you still care.
 
-**Caesars Forum** (conference) is **not** behind Palace. It is **behind the LINQ**, east of the Strip, 3911 Koval Lane, next to the High Roller. **District 3** is the rear tower — Forum Sky Bridge is the commute. Palace is **across Las Vegas Blvd** (west). You go to Palace for sightseeing, Ramsay Pub, and Absinthe. You do **not** tunnel through Palace to reach Oktane.
+**Caesars Forum** (conference) is **not** behind Palace. It is **behind the LINQ**, east of the Strip, 3911 Koval Lane, next to the High Roller. From a Forum-side / rear room the Sky Bridge is the commute. Palace is **across Las Vegas Blvd** (west). You go to Palace for sightseeing, Ramsay Pub, and Absinthe. You do **not** tunnel through Palace to reach the conference.
 
 **Do not sit table games here on this budget.** Bartop video poker at a Caesars bar is fine. Tuesday after Absinthe, that $20 slice is supposed to happen here *or* you pay for a cocktail at Cosmo.
 
@@ -827,11 +824,11 @@ Tuesday after Absinthe you only need **the fountains**.
 
 | From | To | Time |
 |---|---|---|
-| LINQ District 3 | **Caesars Forum** (Oktane) | **5–10 min** via Forum Sky Bridge / High Roller walkway |
+| Center Strip / LINQ (Forum side) | **Caesars Forum** | **5–10 min** via Forum Sky Bridge / High Roller walkway |
 | LINQ | Caesars Palace / Forum Shops | 10–15 min **across the Strip** |
 | Caesars Palace (Absinthe tent) | Bellagio fountains | 10–15 min |
 | LINQ | Bellagio fountains | 15–20 min |
-| Chandelier (Cosmo) | LINQ District 3 | **20–25 min** on the Strip / Flamingo bridges. Fine at midnight. Uber if drunk or done. |
+| Chandelier (Cosmo) | Center Strip / LINQ | **20–25 min** on the Strip / Flamingo bridges. Fine at midnight. Uber if drunk or done. |
 | Strip → Ellis Island | Uber | ~8–12 min. **Do not walk Koval at night.** |
 
 ---
@@ -889,7 +886,7 @@ Limits rise Friday–Saturday night and after 20:00.
 
 This is the highest “fun per dollar” move in the building. It is **not** slots. Same screen, different game.
 
-You sit at a bar with cards in the counter, you play a short burst of Jacks or Better at $1.25 a hand, a light the bartender can see turns green, they pour a beer or a well highball, you tip, and you **stop**. That is the whole drink engine. Do it at the hotel (O’Sheas), at Palace before or after Absinthe, and downtown on Monday. Do not do it at pretty Strip-facing lounges.
+You sit at a bar with cards in the counter, you play a short burst of Jacks or Better at $1.25 a hand, a light the bartender can see turns green, they pour a beer or a well highball, you tip, and you **stop**. That is the whole drink engine. Do it at O’Sheas (LINQ), at Palace before or after Absinthe, and downtown on Monday. Do not do it at pretty Strip-facing lounges.
 
 The paytables at the LINQ are mediocre. You are not here to beat Jacks or Better. You are here because the bartender is three feet away and the drink arrives in two minutes.
 
@@ -908,7 +905,7 @@ Sit where the bartender is in front of you and the screens are in the wood. Skip
 
 | Bar | Where | Why | Notes |
 |---|---|---|---|
-| **O’Sheas** | Connected to the LINQ, through the casino toward the Promenade. Irish dive, beer pong, loud. | Actual bartops, actual bartenders, green lights, the kind of room that still thinks a well drink is the point. **This is your hotel drink engine.** | Do **not** sit live tables. The roulette is **triple-zero**. Blackjack is 6-to-5. Walk past the pits to the **bar stools with screens in the wood**. Sunday evening or a quiet Tuesday is better than Saturday 23:00 (three-deep, drunk bachelor parties). Fun taps: **Guinness**, and a **Frozen Bailey’s** (Irish-cream slushy). Quiet mornings sometimes get coffee + Bailey’s. If the bartender is a grouch, **move stools** — do not argue the light. **Bartop roulette** on the same screens is a vibe, not the engine (worse edge; live 000 is already a no). Jacks or Better. |
+| **O’Sheas** | Connected to the LINQ, through the casino toward the Promenade. Irish dive, beer pong, loud. | Actual bartops, actual bartenders, green lights, the kind of room that still thinks a well drink is the point. **This is the Center Strip drink engine.** | Do **not** sit live tables. The roulette is **triple-zero**. Blackjack is 6-to-5. Walk past the pits to the **bar stools with screens in the wood**. Sunday evening or a quiet Tuesday is better than Saturday 23:00 (three-deep, drunk bachelor parties). Fun taps: **Guinness**, and a **Frozen Bailey’s** (Irish-cream slushy). Quiet mornings sometimes get coffee + Bailey’s. If the bartender is a grouch, **move stools** — do not argue the light. **Bartop roulette** on the same screens is a vibe, not the engine (worse edge; live 000 is already a no). Jacks or Better. |
 | **Tag Bar** (if you still see that name) | Sports bar on the LINQ casino floor, lots of beer taps, screens in the counter. | Same drink-light system as O’Sheas, but the **free drink is more likely to be a decent beer** (craft/import), not just a watery domestic. Caesars renames rooms. If the Tag sign is gone, ignore it and sit at O’Sheas. |
 | **3535 Cocktail Bar** | Hotel lobby. | Skip. Pregame cocktail menu. You pay. | — |
 
@@ -1011,15 +1008,15 @@ Two different systems. Do not mix them up.
 | What you get | Beer / well highball if green | About **1 Reward Credit per $10** of video poker coin-in. A $20 burst might earn **two credits**. |
 | Do you need it for the drink? | Yes (the light) | **No.** Gold status does not skip the light. |
 
-**Sign up:** LINQ check-in, Sunday. Free. Passport. They print a card. One number works at LINQ, Horseshoe, Palace, Flamingo, Paris, Cromwell, Planet Hollywood.
+**Sign up:** hotel check-in, Sunday. Free. Photo ID. They print a card. One number works at LINQ, Horseshoe, Palace, Flamingo, Paris, Cromwell, Planet Hollywood.
 
 **At a bartop:** card slot is usually above or beside the screen. Slide it in, **leave it**, play the $20 burst as already described, pull it when you cash out. If you forget the card, you still get the drink if the light is green — you just do not get the two credits.
 
 **Tiers:** everyone starts **Gold**. **Platinum** is 5,000 Tier Credits in a year; **Diamond** is 15,000. This week will not get you there. Diamond / Seven Stars guests sometimes get a bartender to ignore a red light. **Gold does not.**
 
-**Tables:** if a dealer at a **Caesars** pit asks, hand it over. [Ellis Island](https://www.ellisislandcasino.com/), [Golden Nugget](https://www.goldennugget.com/las-vegas/), and [El Cortez](https://www.elcortezhotelcasino.com/) are **not** Caesars. Do not join extra clubs on a one-shot trip.
+**Tables:** if a dealer at a **Caesars** pit asks, hand it over. [Ellis Island](https://www.ellisislandcasino.com/), [Golden Nugget](https://www.goldennugget.com/las-vegas/), and [El Cortez](https://www.elcortezhotelcasino.com/) are **not** Caesars. Do not join extra clubs for a short trip.
 
-**Do not:** sit extra hands “for points,” chase emails, or download five casino apps. Free drinks = green light + tip. Rewards = a tracking number you already have because you sleep at the LINQ.
+**Do not:** sit extra hands “for points,” chase emails, or download five casino apps. Free drinks = green light + tip. Rewards = a tracking number you already have if you sleep at a Caesars hotel.
 
 ### Reddit threads (if you fall down a rabbit hole)
 
@@ -1524,7 +1521,7 @@ Bartop VP = drinks.     LINQ / Palace TABLES = no.
 Card in slot.     Does not turn the light green.
 Green → well drink / beer → $1 ($2 first at a new bar) → STOP
 
-Monzo: food, Uber, tickets
+UK debit card: food, Uber, tickets
 Cash: envelopes.  No ATM after you sit.  Tables = cash only.
 
 Before you sit:  3-to-2?     double-zero?     min $5–$10?
@@ -1554,7 +1551,7 @@ Before you sit:  3-to-2?     double-zero?     min $5–$10?
 
 **LINQ / Caesars tables:** no. **Bartop:** yes. **Craps / baccarat:** walk past.
 
-**Clothes:** Oktane smart casual. Sun/Mon shorts + t-shirt. Tue night jeans + collar. Light layer for air-con.
+**Clothes:** conference smart casual. Sun/Mon shorts + t-shirt. Tue night jeans + collar. Light layer for air-con.
 
 **Gondola:** Monday indoor $39.
 
